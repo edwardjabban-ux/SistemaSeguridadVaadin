@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/ejabb/Downloads/SistemaSeguridadVaadin/SistemaSeguridadVaadin/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/ejabb/Downloads/SistemaSeguridadVaadin/SistemaSeguridadVaadin/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/ejabb/Downloads/SistemaSeguridadVaadin/SistemaSeguridadVaadin/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\ejabb\\Downloads\\SistemaSeguridadVaadin\\SistemaSeguridadVaadin\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\ejabb\\Downloads\\SistemaSeguridadVaadin\\SistemaSeguridadVaadin\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/ejabb/Downloads/SistemaSeguridadVaadin/SistemaSeguridadVaadin/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/ejabb/Downloads/SistemaSeguridadVaadin/SistemaSeguridadVaadin/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/ejabb/Downloads/SistemaSeguridadVaadin/SistemaSeguridadVaadin/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\ejabb\\Downloads\\SistemaSeguridadVaadin\\SistemaSeguridadVaadin\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

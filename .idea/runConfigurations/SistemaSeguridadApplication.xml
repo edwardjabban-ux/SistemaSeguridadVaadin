@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SistemaSeguridadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    <option name="ENABLE_DEBUG_OUTPUT" value="false" />
+    <option name="MAIN_CLASS_NAME" value="com.security.SistemaSeguridadApplication" />
+    <option name="VM_PARAMETERS" value="-Dvaadin.project.basedir=$PROJECT_DIR$/SistemaSeguridadVaadin" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.security.SistemaSeguridadApplication" />
+    <module name="sistema-seguridad" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SistemaSeguridadVaadin" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
